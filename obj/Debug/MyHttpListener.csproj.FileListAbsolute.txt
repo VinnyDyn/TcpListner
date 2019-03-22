@@ -1,0 +1,15 @@
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\bin\Debug\MyHttpListener.exe.config
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\bin\Debug\MyHttpListener.exe
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\bin\Debug\MyHttpListener.pdb
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.csprojAssemblyReference.cache
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MainWindow.g.cs
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\App.g.cs
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener_MarkupCompile.cache
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener_MarkupCompile.lref
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MainWindow.baml
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.g.resources
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.Properties.Resources.resources
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.csproj.GenerateResource.cache
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.csproj.CoreCompileInputs.cache
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.exe
+C:\Users\v-vileir\Desktop\Socket\MyHttpListener\obj\Debug\MyHttpListener.pdb
